@@ -33,7 +33,10 @@ Delivery Satisfaction Dashboard
 
 <img width="1427" height="798" alt="image" src="https://github.com/user-attachments/assets/3df06b84-5214-4c5b-94f3-1aa131ebb421" />
 
+📂 **[Download the full Power BI Dashboard (.pbix)](https://drive.google.com/drive/folders/1vxIWTkLdM1D9POkpykhurI1cJNi8pERF?usp=sharing)**
+
 Tools Used
+
 SQL — exploratory analysis and data validation prior to modeling, including:
 Aggregate functions (COUNT, SUM, AVG, ROUND)
 Common Table Expressions (CTEs) for multi-step revenue breakdowns (order → yearly → monthly)
@@ -78,10 +81,32 @@ Paraná (PR) shows both the highest average delay and lowest on-time rate among 
 
 The dataset's effective coverage ends around August 2018 — later months contain only a handful of stray records and were excluded from trend visuals to avoid misleading spikes/drops.
 
+## 🙏 Acknowledgments
 
-Author
+Thanks to [Olist](https://olist.com/) for making this dataset publicly available via Kaggle, 
+enabling realistic, hands-on e-commerce analytics practice.
+
+## 📄 License
+
+This project uses the Brazilian E-Commerce Public Dataset by Olist, available on Kaggle 
+under its stated license. The analysis, dashboard, and code in this repository are shared 
+for portfolio and educational purposes.
+
+
+⭐ If you found this project helpful or interesting, feel free to star the repo or connect with me on LinkedIn!
+
+LinkedIn: https://www.linkedin.com/in/pjlansangan/
+
+Author 
 
 Patrick John M. Lansangan
+
+
+
+
+
+
+
 
 
 
