@@ -1,8 +1,13 @@
 Brazilian E-Commerce Sales & Delivery Dashboard
 
+
+
 A two-page Power BI dashboard analyzing ~99,000 orders from Olist, a Brazilian e-commerce marketplace, covering September 2016 – August 2018.
 
+
+
 Overview
+
 
 This project explores two core business questions:
 
@@ -11,6 +16,8 @@ How is the business growing? — revenue trends, top categories, and geographic 
 How well is the business delivering on its promise to customers? — on-time delivery performance and its relationship to customer satisfaction.
 
 Data was cleaned using SQL before being modeled and visualized in Power BI.
+
+
 
 Dashboard Preview
 
