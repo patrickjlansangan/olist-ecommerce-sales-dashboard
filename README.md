@@ -82,24 +82,20 @@ Paraná (PR) shows both the highest average delay and lowest on-time rate among 
 The dataset's effective coverage ends around August 2018 — later months contain only a handful of stray records and were excluded from trend visuals to avoid misleading spikes/drops.
 
 ## 🙏 Acknowledgments
-
-Thanks to [Olist](https://olist.com/) for making this dataset publicly available via Kaggle, 
-enabling realistic, hands-on e-commerce analytics practice.
+Thanks to Olist for making this dataset publicly available via Kaggle...
 
 ## 📄 License
+This project uses the Brazilian E-Commerce Public Dataset by Olist...
 
-This project uses the Brazilian E-Commerce Public Dataset by Olist, available on Kaggle 
-under its stated license. The analysis, dashboard, and code in this repository are shared 
-for portfolio and educational purposes.
+## 👨‍💻 Author
+**Patrick John M. Lansangan**
+Bachelor of Science in Information Technology · Aspiring Data Analyst
+- LinkedIn: [linkedin.com/in/pjlansangan](https://www.linkedin.com/in/pjlansangan/)
+- GitHub: [github.com/patrickjlansangan](https://github.com/patrickjlansangan)
 
+---
 
 ⭐ If you found this project helpful or interesting, feel free to star the repo or connect with me on LinkedIn!
-
-LinkedIn: https://www.linkedin.com/in/pjlansangan/
-
-Author 
-
-Patrick John M. Lansangan
 
 
 
