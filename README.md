@@ -15,9 +15,11 @@ Data was cleaned using SQL before being modeled and visualized in Power BI.
 Dashboard Preview
 
 Sales Dashboard
+
 <img width="1427" height="800" alt="image" src="https://github.com/user-attachments/assets/9cbb1223-6813-472a-b310-63df0dd74f30" />
 
 Delivery Satisfaction Dashboard
+
 <img width="1427" height="798" alt="image" src="https://github.com/user-attachments/assets/3df06b84-5214-4c5b-94f3-1aa131ebb421" />
 
 Tools Used
